@@ -5,6 +5,7 @@
 **Junior developer exploring game development and web.**<br>
 I build games in Unity and websites with JS/TS, and I'm looking for my first role where I can grow in either direction.
 
+<a href="https://www.linkedin.com/in/yehor-nachosa/"><img src="https://img.shields.io/badge/LinkedIn-Yehor_Nachosa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://t.me/Increat0r"><img src="https://img.shields.io/badge/Telegram-@Increat0r-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 <img src="https://img.shields.io/badge/Open_to-work-2ea44f?style=flat-square">
 
