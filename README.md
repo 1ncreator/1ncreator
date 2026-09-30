@@ -49,13 +49,15 @@ Mobile 8×8 block puzzle with combos, a fair piece generator and procedural art 
 
 ### 🌐 Web projects
 
+Training projects I built solo from scratch to learn web development.
+
 **[KEEPO](https://github.com/1ncreator/KEEPO)**<br>
-Website for KEEPO.<br>
-<sub>JavaScript</sub>
+A website built from the ground up: layout, styling and interactivity.<br>
+<sub>JavaScript · HTML · CSS · solo</sub>
 
 **[fundee](https://github.com/1ncreator/fundee)**<br>
-Web app.<br>
-<sub>TypeScript</sub>
+A web app written to practise TypeScript.<br>
+<sub>TypeScript · solo</sub>
 
 </td>
 </tr>
