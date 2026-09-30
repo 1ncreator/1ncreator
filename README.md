@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+1ncreator+%F0%9F%91%8B;Game+developer+%E2%80%A2+Unity+%26+C%23;Web+developer+%E2%80%A2+JavaScript+%26+TypeScript" alt="Typing intro">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yehor+%F0%9F%91%8B;Game+developer+%E2%80%A2+Unity+%26+C%23;Web+developer+%E2%80%A2+JavaScript+%26+TypeScript" alt="Typing intro">
 
 **Junior developer exploring game development and web.**<br>
 I build games in Unity and websites with JS/TS, and I'm looking for my first role where I can grow in either direction.
